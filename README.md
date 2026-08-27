@@ -1,19 +1,20 @@
-# E-Commerce Sales Analytics | Power BI & SQL Server
+# E-Commerce Sales Analytics | Power BI
 
 ## Project Overview
-This project analyzes e-commerce sales, customer, and product performance using SQL Server and Power BI.
 
-The original dataset was provided in a single Excel worksheet. I loaded the data into SQL Server, created keys, and separated the data into appropriate structures for analysis.
+This project analyzes e-commerce sales, customer, and product performance using Power BI.
 
-The prepared data was then used in Power BI to build an interactive dashboard.
+The original dataset was provided in a single Excel worksheet. I used Power BI to model the data, create relationships, develop DAX measures, and build an interactive three-page dashboard.
+
+The dataset was also loaded into SQL Server during project development for exploration and validation.
 
 ## Tools & Technologies
-- SQL Server
 - Power BI
 - DAX
 - Excel
 - Data Modeling
 - Data Visualization
+- SQL Server
 
 ## Dashboard Pages
 
@@ -47,4 +48,4 @@ Analyzes:
 The analysis shows how increasing discount levels can negatively affect profit margins, helping identify areas where discount strategies may need adjustment.
 
 ## Data Workflow
-**Excel → SQL Server → Data Modeling → Power BI → Business Analysis**
+**Excel → Power BI Data Modeling → DAX → Business Analysis**
