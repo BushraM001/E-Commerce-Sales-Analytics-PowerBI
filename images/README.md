@@ -4,7 +4,7 @@ Dashboard screenshots
 ![E-Commerce Overview Dashboard](images/Overview-Dashboard.jpeg)
 
 ### 2. Customer Market Analysis
-![Customer Market Analysis Dashboard](images/Customer-Market-Analysis.jpeg)
+![Customer Market Analysis Dashboard](images/Customer_Market_Analysis.jpeg)
 
 ### 3. Product Performance
-![Product Performance Dashboard](images/Product-Performance.jpeg)
+![Product Performance](images/Product_Performance.jpeg)
