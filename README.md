@@ -25,9 +25,13 @@ Provides a high-level view of business performance including:
 - Total Orders
 - Quantity Sold
 - Sales and profit trends
+- 
+![E-Commerce Overview Dashboard](images/Overview-Dashboard.jpeg)
 
 ### 2. Customer Market Analysis
 Analyzes customer and market behavior to identify patterns and business opportunities.
+
+![Customer Market Analysis Dashboard](images/Customer_Market_Analysis.jpeg)
 
 ### 3. Product Performance
 Analyzes:
@@ -36,6 +40,8 @@ Analyzes:
 - Profit by category
 - Discount vs. profit margin
 - Impact of discounts on profitability
+
+![Product Performance Dashboard](images/Product_Performance.jpeg)
 
 ## Key Business Insight
 The analysis shows how increasing discount levels can negatively affect profit margins, helping identify areas where discount strategies may need adjustment.
