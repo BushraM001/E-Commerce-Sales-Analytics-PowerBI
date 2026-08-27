@@ -16,6 +16,13 @@ The dataset was also loaded into SQL Server during project development for explo
 - Data Visualization
 - SQL Server
 
+## Data Model
+
+The original Excel dataset contained the data in a single flat table.  
+I created a structured Power BI data model by separating the data into fact and dimension tables and creating relationships using keys.
+
+![Power BI Data Model](images/PowerBI_Data_Model.png)
+
 ## Dashboard Pages
 
 ### 1. Overview
