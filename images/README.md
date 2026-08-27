@@ -1,5 +1,3 @@
-Dashboard screenshots
-
 ### 1. Overview
 ![E-Commerce Overview Dashboard](images/Overview-Dashboard.jpeg)
 
